@@ -1,7 +1,7 @@
 - 👋 Hi, I’m haermosi
 - 👀 I’m VERY curious about new things.
 - ✨ I'm also learning to play guitar.
-- 🌱 I’m currently learning basic knowledge on cs.
+- 🌱 I’m currently learning basic knowledge.
 - 🚀 オレは海贼王になる男だ！
   
 
